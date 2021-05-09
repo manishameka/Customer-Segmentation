@@ -1,6 +1,5 @@
 # Customer-Segmentation
 In this data science project, we create a customer segmentation model using Mall Customers datset. We develop this using a class of machine learning. Specifically, we use of a clustering algorithm called K-means clustering. We analyze and visualize the data and then proceeded to implement the algorithm.
-Customer Segmentation using Machine Learning in R
 
 Import and read the data set
 ```{r}
